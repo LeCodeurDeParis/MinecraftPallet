@@ -1,0 +1,1992 @@
+[
+    {
+        "id": 1,
+        "nom": "acacia_leaves",
+        "image": "/public/assets/blocks/acacia_leaves.png"
+    },
+    {
+        "id": 2,
+        "nom": "acacia_log",
+        "image": "/public/assets/blocks/acacia_log.png"
+    },
+    {
+        "id": 3,
+        "nom": "acacia_planks",
+        "image": "/public/assets/blocks/acacia_planks.png"
+    },
+    {
+        "id": 4,
+        "nom": "amethyst_block",
+        "image": "/public/assets/blocks/amethyst_block.png"
+    },
+    {
+        "id": 5,
+        "nom": "ancient_debris_side",
+        "image": "/public/assets/blocks/ancient_debris_side.png"
+    },
+    {
+        "id": 6,
+        "nom": "andesite",
+        "image": "/public/assets/blocks/andesite.png"
+    },
+    {
+        "id": 7,
+        "nom": "azalea_leaves",
+        "image": "/public/assets/blocks/azalea_leaves.png"
+    },
+    {
+        "id": 8,
+        "nom": "bamboo_block",
+        "image": "/public/assets/blocks/bamboo_block.png"
+    },
+    {
+        "id": 9,
+        "nom": "bamboo_planks",
+        "image": "/public/assets/blocks/bamboo_planks.png"
+    },
+    {
+        "id": 10,
+        "nom": "barrel_side",
+        "image": "/public/assets/blocks/barrel_side.png"
+    },
+    {
+        "id": 11,
+        "nom": "basalt_side",
+        "image": "/public/assets/blocks/basalt_side.png"
+    },
+    {
+        "id": 12,
+        "nom": "bedrock",
+        "image": "/public/assets/blocks/bedrock.png"
+    },
+    {
+        "id": 13,
+        "nom": "beehive_front",
+        "image": "/public/assets/blocks/beehive_front.png"
+    },
+    {
+        "id": 14,
+        "nom": "beehive_front_honey",
+        "image": "/public/assets/blocks/beehive_front_honey.png"
+    },
+    {
+        "id": 15,
+        "nom": "beehive_side",
+        "image": "/public/assets/blocks/beehive_side.png"
+    },
+    {
+        "id": 16,
+        "nom": "bee_nest_front",
+        "image": "/public/assets/blocks/bee_nest_front.png"
+    },
+    {
+        "id": 17,
+        "nom": "bee_nest_front_honey",
+        "image": "/public/assets/blocks/bee_nest_front_honey.png"
+    },
+    {
+        "id": 18,
+        "nom": "birch_leaves",
+        "image": "/public/assets/blocks/birch_leaves.png"
+    },
+    {
+        "id": 19,
+        "nom": "birch_log",
+        "image": "/public/assets/blocks/birch_log.png"
+    },
+    {
+        "id": 20,
+        "nom": "birch_log_top",
+        "image": "/public/assets/blocks/birch_log_top.png"
+    },
+    {
+        "id": 21,
+        "nom": "birch_planks",
+        "image": "/public/assets/blocks/birch_planks.png"
+    },
+    {
+        "id": 22,
+        "nom": "blackstone",
+        "image": "/public/assets/blocks/blackstone.png"
+    },
+    {
+        "id": 23,
+        "nom": "black_concrete",
+        "image": "/public/assets/blocks/black_concrete.png"
+    },
+    {
+        "id": 24,
+        "nom": "black_concrete_powder",
+        "image": "/public/assets/blocks/black_concrete_powder.png"
+    },
+    {
+        "id": 25,
+        "nom": "black_glazed_terracotta",
+        "image": "/public/assets/blocks/black_glazed_terracotta.png"
+    },
+    {
+        "id": 26,
+        "nom": "black_shulker_box",
+        "image": "/public/assets/blocks/black_shulker_box.png"
+    },
+    {
+        "id": 27,
+        "nom": "black_stained_glass",
+        "image": "/public/assets/blocks/black_stained_glass.png"
+    },
+    {
+        "id": 28,
+        "nom": "black_stained_glass_pane_top",
+        "image": "/public/assets/blocks/black_stained_glass_pane_top.png"
+    },
+    {
+        "id": 29,
+        "nom": "black_terracotta",
+        "image": "/public/assets/blocks/black_terracotta.png"
+    },
+    {
+        "id": 30,
+        "nom": "black_wool",
+        "image": "/public/assets/blocks/black_wool.png"
+    },
+    {
+        "id": 31,
+        "nom": "blast_furnace_front",
+        "image": "/public/assets/blocks/blast_furnace_front.png"
+    },
+    {
+        "id": 32,
+        "nom": "blue_concrete_powder",
+        "image": "/public/assets/blocks/blue_concrete_powder.png"
+    },
+    {
+        "id": 33,
+        "nom": "blue_glazed_terracotta",
+        "image": "/public/assets/blocks/blue_glazed_terracotta.png"
+    },
+    {
+        "id": 34,
+        "nom": "blue_ice",
+        "image": "/public/assets/blocks/blue_ice.png"
+    },
+    {
+        "id": 35,
+        "nom": "blue_shulker_box",
+        "image": "/public/assets/blocks/blue_shulker_box.png"
+    },
+    {
+        "id": 36,
+        "nom": "blue_stained_glass",
+        "image": "/public/assets/blocks/blue_stained_glass.png"
+    },
+    {
+        "id": 37,
+        "nom": "blue_terracotta",
+        "image": "/public/assets/blocks/blue_terracotta.png"
+    },
+    {
+        "id": 38,
+        "nom": "blue_wool",
+        "image": "/public/assets/blocks/blue_wool.png"
+    },
+    {
+        "id": 39,
+        "nom": "bone_block_side",
+        "image": "/public/assets/blocks/bone_block_side.png"
+    },
+    {
+        "id": 40,
+        "nom": "bookshelf",
+        "image": "/public/assets/blocks/bookshelf.png"
+    },
+    {
+        "id": 41,
+        "nom": "brain_coral_block",
+        "image": "/public/assets/blocks/brain_coral_block.png"
+    },
+    {
+        "id": 42,
+        "nom": "bricks",
+        "image": "/public/assets/blocks/bricks.png"
+    },
+    {
+        "id": 43,
+        "nom": "brown_concrete",
+        "image": "/public/assets/blocks/brown_concrete.png"
+    },
+    {
+        "id": 44,
+        "nom": "brown_concrete_powder",
+        "image": "/public/assets/blocks/brown_concrete_powder.png"
+    },
+    {
+        "id": 45,
+        "nom": "brown_glazed_terracotta",
+        "image": "/public/assets/blocks/brown_glazed_terracotta.png"
+    },
+    {
+        "id": 46,
+        "nom": "brown_mushroom_block",
+        "image": "/public/assets/blocks/brown_mushroom_block.png"
+    },
+    {
+        "id": 47,
+        "nom": "brown_shulker_box",
+        "image": "/public/assets/blocks/brown_shulker_box.png"
+    },
+    {
+        "id": 48,
+        "nom": "brown_stained_glass",
+        "image": "/public/assets/blocks/brown_stained_glass.png"
+    },
+    {
+        "id": 49,
+        "nom": "brown_terracotta",
+        "image": "/public/assets/blocks/brown_terracotta.png"
+    },
+    {
+        "id": 50,
+        "nom": "brown_wool",
+        "image": "/public/assets/blocks/brown_wool.png"
+    },
+    {
+        "id": 51,
+        "nom": "budding_amethyst",
+        "image": "/public/assets/blocks/budding_amethyst.png"
+    },
+    {
+        "id": 52,
+        "nom": "calcite",
+        "image": "/public/assets/blocks/calcite.png"
+    },
+    {
+        "id": 53,
+        "nom": "carved_pumpkin",
+        "image": "/public/assets/blocks/carved_pumpkin.png"
+    },
+    {
+        "id": 54,
+        "nom": "cauldron_side",
+        "image": "/public/assets/blocks/cauldron_side.png"
+    },
+    {
+        "id": 55,
+        "nom": "cherry_leaves",
+        "image": "/public/assets/blocks/cherry_leaves.png"
+    },
+    {
+        "id": 56,
+        "nom": "cherry_log",
+        "image": "/public/assets/blocks/cherry_log.png"
+    },
+    {
+        "id": 57,
+        "nom": "cherry_planks",
+        "image": "/public/assets/blocks/cherry_planks.png"
+    },
+    {
+        "id": 58,
+        "nom": "chiseled_bookshelf_empty",
+        "image": "/public/assets/blocks/chiseled_bookshelf_empty.png"
+    },
+    {
+        "id": 59,
+        "nom": "chiseled_bookshelf_occupied",
+        "image": "/public/assets/blocks/chiseled_bookshelf_occupied.png"
+    },
+    {
+        "id": 60,
+        "nom": "chiseled_copper",
+        "image": "/public/assets/blocks/chiseled_copper.png"
+    },
+    {
+        "id": 61,
+        "nom": "chiseled_deepslate",
+        "image": "/public/assets/blocks/chiseled_deepslate.png"
+    },
+    {
+        "id": 62,
+        "nom": "chiseled_nether_bricks",
+        "image": "/public/assets/blocks/chiseled_nether_bricks.png"
+    },
+    {
+        "id": 63,
+        "nom": "chiseled_polished_blackstone",
+        "image": "/public/assets/blocks/chiseled_polished_blackstone.png"
+    },
+    {
+        "id": 64,
+        "nom": "chiseled_quartz_block",
+        "image": "/public/assets/blocks/chiseled_quartz_block.png"
+    },
+    {
+        "id": 65,
+        "nom": "chiseled_quartz_block_top",
+        "image": "/public/assets/blocks/chiseled_quartz_block_top.png"
+    },
+    {
+        "id": 66,
+        "nom": "chiseled_red_sandstone",
+        "image": "/public/assets/blocks/chiseled_red_sandstone.png"
+    },
+    {
+        "id": 67,
+        "nom": "chiseled_sandstone",
+        "image": "/public/assets/blocks/chiseled_sandstone.png"
+    },
+    {
+        "id": 68,
+        "nom": "chiseled_stone_bricks",
+        "image": "/public/assets/blocks/chiseled_stone_bricks.png"
+    },
+    {
+        "id": 69,
+        "nom": "chiseled_tuff",
+        "image": "/public/assets/blocks/chiseled_tuff.png"
+    },
+    {
+        "id": 70,
+        "nom": "chiseled_tuff_bricks",
+        "image": "/public/assets/blocks/chiseled_tuff_bricks.png"
+    },
+    {
+        "id": 71,
+        "nom": "chiseled_tuff_bricks_top",
+        "image": "/public/assets/blocks/chiseled_tuff_bricks_top.png"
+    },
+    {
+        "id": 72,
+        "nom": "chiseled_tuff_top",
+        "image": "/public/assets/blocks/chiseled_tuff_top.png"
+    },
+    {
+        "id": 73,
+        "nom": "clay",
+        "image": "/public/assets/blocks/clay.png"
+    },
+    {
+        "id": 74,
+        "nom": "coal_block",
+        "image": "/public/assets/blocks/coal_block.png"
+    },
+    {
+        "id": 75,
+        "nom": "coal_ore",
+        "image": "/public/assets/blocks/coal_ore.png"
+    },
+    {
+        "id": 76,
+        "nom": "coarse_dirt",
+        "image": "/public/assets/blocks/coarse_dirt.png"
+    },
+    {
+        "id": 77,
+        "nom": "cobbled_deepslate",
+        "image": "/public/assets/blocks/cobbled_deepslate.png"
+    },
+    {
+        "id": 78,
+        "nom": "cobblestone",
+        "image": "/public/assets/blocks/cobblestone.png"
+    },
+    {
+        "id": 79,
+        "nom": "composter_side",
+        "image": "/public/assets/blocks/composter_side.png"
+    },
+    {
+        "id": 80,
+        "nom": "copper_block",
+        "image": "/public/assets/blocks/copper_block.png"
+    },
+    {
+        "id": 81,
+        "nom": "copper_bulb",
+        "image": "/public/assets/blocks/copper_bulb.png"
+    },
+    {
+        "id": 82,
+        "nom": "copper_bulb_lit",
+        "image": "/public/assets/blocks/copper_bulb_lit.png"
+    },
+    {
+        "id": 83,
+        "nom": "copper_bulb_lit_powered",
+        "image": "/public/assets/blocks/copper_bulb_lit_powered.png"
+    },
+    {
+        "id": 84,
+        "nom": "copper_bulb_powered",
+        "image": "/public/assets/blocks/copper_bulb_powered.png"
+    },
+    {
+        "id": 85,
+        "nom": "copper_grate",
+        "image": "/public/assets/blocks/copper_grate.png"
+    },
+    {
+        "id": 86,
+        "nom": "copper_ore",
+        "image": "/public/assets/blocks/copper_ore.png"
+    },
+    {
+        "id": 87,
+        "nom": "cracked_deepslate_bricks",
+        "image": "/public/assets/blocks/cracked_deepslate_bricks.png"
+    },
+    {
+        "id": 88,
+        "nom": "cracked_deepslate_tiles",
+        "image": "/public/assets/blocks/cracked_deepslate_tiles.png"
+    },
+    {
+        "id": 89,
+        "nom": "cracked_nether_bricks",
+        "image": "/public/assets/blocks/cracked_nether_bricks.png"
+    },
+    {
+        "id": 90,
+        "nom": "cracked_polished_blackstone_bricks",
+        "image": "/public/assets/blocks/cracked_polished_blackstone_bricks.png"
+    },
+    {
+        "id": 91,
+        "nom": "cracked_stone_bricks",
+        "image": "/public/assets/blocks/cracked_stone_bricks.png"
+    },
+    {
+        "id": 92,
+        "nom": "crafting_table_front",
+        "image": "/public/assets/blocks/crafting_table_front.png"
+    },
+    {
+        "id": 93,
+        "nom": "crimson_nylium",
+        "image": "/public/assets/blocks/crimson_nylium.png"
+    },
+    {
+        "id": 94,
+        "nom": "crimson_nylium_side",
+        "image": "/public/assets/blocks/crimson_nylium_side.png"
+    },
+    {
+        "id": 95,
+        "nom": "crimson_planks",
+        "image": "/public/assets/blocks/crimson_planks.png"
+    },
+    {
+        "id": 96,
+        "nom": "crying_obsidian",
+        "image": "/public/assets/blocks/crying_obsidian.png"
+    },
+    {
+        "id": 97,
+        "nom": "cut_copper",
+        "image": "/public/assets/blocks/cut_copper.png"
+    },
+    {
+        "id": 98,
+        "nom": "cut_red_sandstone",
+        "image": "/public/assets/blocks/cut_red_sandstone.png"
+    },
+    {
+        "id": 99,
+        "nom": "cut_sandstone",
+        "image": "/public/assets/blocks/cut_sandstone.png"
+    },
+    {
+        "id": 100,
+        "nom": "cyan_concrete",
+        "image": "/public/assets/blocks/cyan_concrete.png"
+    },
+    {
+        "id": 101,
+        "nom": "cyan_concrete_powder",
+        "image": "/public/assets/blocks/cyan_concrete_powder.png"
+    },
+    {
+        "id": 102,
+        "nom": "cyan_glazed_terracotta",
+        "image": "/public/assets/blocks/cyan_glazed_terracotta.png"
+    },
+    {
+        "id": 103,
+        "nom": "cyan_shulker_box",
+        "image": "/public/assets/blocks/cyan_shulker_box.png"
+    },
+    {
+        "id": 104,
+        "nom": "cyan_stained_glass",
+        "image": "/public/assets/blocks/cyan_stained_glass.png"
+    },
+    {
+        "id": 105,
+        "nom": "cyan_terracotta",
+        "image": "/public/assets/blocks/cyan_terracotta.png"
+    },
+    {
+        "id": 106,
+        "nom": "cyan_wool",
+        "image": "/public/assets/blocks/cyan_wool.png"
+    },
+    {
+        "id": 107,
+        "nom": "dark_oak_leaves",
+        "image": "/public/assets/blocks/dark_oak_leaves.png"
+    },
+    {
+        "id": 108,
+        "nom": "dark_oak_log",
+        "image": "/public/assets/blocks/dark_oak_log.png"
+    },
+    {
+        "id": 109,
+        "nom": "dark_oak_planks",
+        "image": "/public/assets/blocks/dark_oak_planks.png"
+    },
+    {
+        "id": 110,
+        "nom": "dark_prismarine",
+        "image": "/public/assets/blocks/dark_prismarine.png"
+    },
+    {
+        "id": 111,
+        "nom": "dead_brain_coral_block",
+        "image": "/public/assets/blocks/dead_brain_coral_block.png"
+    },
+    {
+        "id": 112,
+        "nom": "dead_bubble_coral_block",
+        "image": "/public/assets/blocks/dead_bubble_coral_block.png"
+    },
+    {
+        "id": 113,
+        "nom": "dead_horn_coral_block",
+        "image": "/public/assets/blocks/dead_horn_coral_block.png"
+    },
+    {
+        "id": 114,
+        "nom": "dead_tube_coral_block",
+        "image": "/public/assets/blocks/dead_tube_coral_block.png"
+    },
+    {
+        "id": 115,
+        "nom": "deepslate",
+        "image": "/public/assets/blocks/deepslate.png"
+    },
+    {
+        "id": 116,
+        "nom": "deepslate_bricks",
+        "image": "/public/assets/blocks/deepslate_bricks.png"
+    },
+    {
+        "id": 117,
+        "nom": "deepslate_coal_ore",
+        "image": "/public/assets/blocks/deepslate_coal_ore.png"
+    },
+    {
+        "id": 118,
+        "nom": "deepslate_copper_ore",
+        "image": "/public/assets/blocks/deepslate_copper_ore.png"
+    },
+    {
+        "id": 119,
+        "nom": "deepslate_diamond_ore",
+        "image": "/public/assets/blocks/deepslate_diamond_ore.png"
+    },
+    {
+        "id": 120,
+        "nom": "deepslate_emerald_ore",
+        "image": "/public/assets/blocks/deepslate_emerald_ore.png"
+    },
+    {
+        "id": 121,
+        "nom": "deepslate_gold_ore",
+        "image": "/public/assets/blocks/deepslate_gold_ore.png"
+    },
+    {
+        "id": 122,
+        "nom": "deepslate_iron_ore",
+        "image": "/public/assets/blocks/deepslate_iron_ore.png"
+    },
+    {
+        "id": 123,
+        "nom": "deepslate_lapis_ore",
+        "image": "/public/assets/blocks/deepslate_lapis_ore.png"
+    },
+    {
+        "id": 124,
+        "nom": "deepslate_redstone_ore",
+        "image": "/public/assets/blocks/deepslate_redstone_ore.png"
+    },
+    {
+        "id": 125,
+        "nom": "deepslate_tiles",
+        "image": "/public/assets/blocks/deepslate_tiles.png"
+    },
+    {
+        "id": 126,
+        "nom": "deepslate_top",
+        "image": "/public/assets/blocks/deepslate_top.png"
+    },
+    {
+        "id": 127,
+        "nom": "diamond_block",
+        "image": "/public/assets/blocks/diamond_block.png"
+    },
+    {
+        "id": 128,
+        "nom": "diamond_ore",
+        "image": "/public/assets/blocks/diamond_ore.png"
+    },
+    {
+        "id": 129,
+        "nom": "diorite",
+        "image": "/public/assets/blocks/diorite.png"
+    },
+    {
+        "id": 130,
+        "nom": "dirt",
+        "image": "/public/assets/blocks/dirt.png"
+    },
+    {
+        "id": 131,
+        "nom": "dirt_path_side",
+        "image": "/public/assets/blocks/dirt_path_side.png"
+    },
+    {
+        "id": 132,
+        "nom": "dispenser_front",
+        "image": "/public/assets/blocks/dispenser_front.png"
+    },
+    {
+        "id": 133,
+        "nom": "dried_kelp_side",
+        "image": "/public/assets/blocks/dried_kelp_side.png"
+    },
+    {
+        "id": 134,
+        "nom": "dripstone_block",
+        "image": "/public/assets/blocks/dripstone_block.png"
+    },
+    {
+        "id": 135,
+        "nom": "emerald_block",
+        "image": "/public/assets/blocks/emerald_block.png"
+    },
+    {
+        "id": 136,
+        "nom": "emerald_ore",
+        "image": "/public/assets/blocks/emerald_ore.png"
+    },
+    {
+        "id": 137,
+        "nom": "end_portal_frame_side",
+        "image": "/public/assets/blocks/end_portal_frame_side.png"
+    },
+    {
+        "id": 138,
+        "nom": "end_stone",
+        "image": "/public/assets/blocks/end_stone.png"
+    },
+    {
+        "id": 139,
+        "nom": "end_stone_bricks",
+        "image": "/public/assets/blocks/end_stone_bricks.png"
+    },
+    {
+        "id": 140,
+        "nom": "exposed_chiseled_copper",
+        "image": "/public/assets/blocks/exposed_chiseled_copper.png"
+    },
+    {
+        "id": 141,
+        "nom": "exposed_copper",
+        "image": "/public/assets/blocks/exposed_copper.png"
+    },
+    {
+        "id": 142,
+        "nom": "exposed_copper_bulb",
+        "image": "/public/assets/blocks/exposed_copper_bulb.png"
+    },
+    {
+        "id": 143,
+        "nom": "exposed_copper_bulb_lit",
+        "image": "/public/assets/blocks/exposed_copper_bulb_lit.png"
+    },
+    {
+        "id": 144,
+        "nom": "exposed_copper_bulb_lit_powered",
+        "image": "/public/assets/blocks/exposed_copper_bulb_lit_powered.png"
+    },
+    {
+        "id": 145,
+        "nom": "exposed_copper_bulb_powered",
+        "image": "/public/assets/blocks/exposed_copper_bulb_powered.png"
+    },
+    {
+        "id": 146,
+        "nom": "exposed_copper_door_bottom",
+        "image": "/public/assets/blocks/exposed_copper_door_bottom.png"
+    },
+    {
+        "id": 147,
+        "nom": "exposed_copper_door_top",
+        "image": "/public/assets/blocks/exposed_copper_door_top.png"
+    },
+    {
+        "id": 148,
+        "nom": "exposed_copper_grate",
+        "image": "/public/assets/blocks/exposed_copper_grate.png"
+    },
+    {
+        "id": 149,
+        "nom": "exposed_copper_trapdoor",
+        "image": "/public/assets/blocks/exposed_copper_trapdoor.png"
+    },
+    {
+        "id": 150,
+        "nom": "exposed_cut_copper",
+        "image": "/public/assets/blocks/exposed_cut_copper.png"
+    },
+    {
+        "id": 151,
+        "nom": "fire_coral_block",
+        "image": "/public/assets/blocks/fire_coral_block.png"
+    },
+    {
+        "id": 152,
+        "nom": "fletching_table_front",
+        "image": "/public/assets/blocks/fletching_table_front.png"
+    },
+    {
+        "id": 153,
+        "nom": "flowering_azalea_leaves",
+        "image": "/public/assets/blocks/flowering_azalea_leaves.png"
+    },
+    {
+        "id": 154,
+        "nom": "furnace_front",
+        "image": "/public/assets/blocks/furnace_front.png"
+    },
+    {
+        "id": 155,
+        "nom": "gilded_blackstone",
+        "image": "/public/assets/blocks/gilded_blackstone.png"
+    },
+    {
+        "id": 156,
+        "nom": "glass",
+        "image": "/public/assets/blocks/glass.png"
+    },
+    {
+        "id": 157,
+        "nom": "glowstone",
+        "image": "/public/assets/blocks/glowstone.png"
+    },
+    {
+        "id": 158,
+        "nom": "gold_block",
+        "image": "/public/assets/blocks/gold_block.png"
+    },
+    {
+        "id": 159,
+        "nom": "gold_ore",
+        "image": "/public/assets/blocks/gold_ore.png"
+    },
+    {
+        "id": 160,
+        "nom": "granite",
+        "image": "/public/assets/blocks/granite.png"
+    },
+    {
+        "id": 161,
+        "nom": "grass_block_side",
+        "image": "/public/assets/blocks/grass_block_side.png"
+    },
+    {
+        "id": 162,
+        "nom": "grass_block_snow",
+        "image": "/public/assets/blocks/grass_block_snow.png"
+    },
+    {
+        "id": 163,
+        "nom": "gravel",
+        "image": "/public/assets/blocks/gravel.png"
+    },
+    {
+        "id": 164,
+        "nom": "gray_concrete",
+        "image": "/public/assets/blocks/gray_concrete.png"
+    },
+    {
+        "id": 165,
+        "nom": "gray_concrete_powder",
+        "image": "/public/assets/blocks/gray_concrete_powder.png"
+    },
+    {
+        "id": 166,
+        "nom": "gray_glazed_terracotta",
+        "image": "/public/assets/blocks/gray_glazed_terracotta.png"
+    },
+    {
+        "id": 167,
+        "nom": "gray_shulker_box",
+        "image": "/public/assets/blocks/gray_shulker_box.png"
+    },
+    {
+        "id": 168,
+        "nom": "gray_stained_glass",
+        "image": "/public/assets/blocks/gray_stained_glass.png"
+    },
+    {
+        "id": 169,
+        "nom": "gray_terracotta",
+        "image": "/public/assets/blocks/gray_terracotta.png"
+    },
+    {
+        "id": 170,
+        "nom": "gray_wool",
+        "image": "/public/assets/blocks/gray_wool.png"
+    },
+    {
+        "id": 171,
+        "nom": "green_concrete",
+        "image": "/public/assets/blocks/green_concrete.png"
+    },
+    {
+        "id": 172,
+        "nom": "green_concrete_powder",
+        "image": "/public/assets/blocks/green_concrete_powder.png"
+    },
+    {
+        "id": 173,
+        "nom": "green_glazed_terracotta",
+        "image": "/public/assets/blocks/green_glazed_terracotta.png"
+    },
+    {
+        "id": 174,
+        "nom": "green_shulker_box",
+        "image": "/public/assets/blocks/green_shulker_box.png"
+    },
+    {
+        "id": 175,
+        "nom": "green_stained_glass",
+        "image": "/public/assets/blocks/green_stained_glass.png"
+    },
+    {
+        "id": 176,
+        "nom": "green_terracotta",
+        "image": "/public/assets/blocks/green_terracotta.png"
+    },
+    {
+        "id": 177,
+        "nom": "green_wool",
+        "image": "/public/assets/blocks/green_wool.png"
+    },
+    {
+        "id": 178,
+        "nom": "hay_block_side",
+        "image": "/public/assets/blocks/hay_block_side.png"
+    },
+    {
+        "id": 179,
+        "nom": "honeycomb_block",
+        "image": "/public/assets/blocks/honeycomb_block.png"
+    },
+    {
+        "id": 180,
+        "nom": "honey_block_side",
+        "image": "/public/assets/blocks/honey_block_side.png"
+    },
+    {
+        "id": 181,
+        "nom": "horn_coral_block",
+        "image": "/public/assets/blocks/horn_coral_block.png"
+    },
+    {
+        "id": 182,
+        "nom": "ice",
+        "image": "/public/assets/blocks/ice.png"
+    },
+    {
+        "id": 183,
+        "nom": "iron_block",
+        "image": "/public/assets/blocks/iron_block.png"
+    },
+    {
+        "id": 184,
+        "nom": "iron_ore",
+        "image": "/public/assets/blocks/iron_ore.png"
+    },
+    {
+        "id": 185,
+        "nom": "jack_o_lantern",
+        "image": "/public/assets/blocks/jack_o_lantern.png"
+    },
+    {
+        "id": 186,
+        "nom": "jigsaw_side",
+        "image": "/public/assets/blocks/jigsaw_side.png"
+    },
+    {
+        "id": 187,
+        "nom": "jukebox_side",
+        "image": "/public/assets/blocks/jukebox_side.png"
+    },
+    {
+        "id": 188,
+        "nom": "jungle_leaves",
+        "image": "/public/assets/blocks/jungle_leaves.png"
+    },
+    {
+        "id": 189,
+        "nom": "jungle_log",
+        "image": "/public/assets/blocks/jungle_log.png"
+    },
+    {
+        "id": 190,
+        "nom": "jungle_planks",
+        "image": "/public/assets/blocks/jungle_planks.png"
+    },
+    {
+        "id": 191,
+        "nom": "lapis_block",
+        "image": "/public/assets/blocks/lapis_block.png"
+    },
+    {
+        "id": 192,
+        "nom": "lapis_ore",
+        "image": "/public/assets/blocks/lapis_ore.png"
+    },
+    {
+        "id": 193,
+        "nom": "light_blue_concrete",
+        "image": "/public/assets/blocks/light_blue_concrete.png"
+    },
+    {
+        "id": 194,
+        "nom": "light_blue_concrete_powder",
+        "image": "/public/assets/blocks/light_blue_concrete_powder.png"
+    },
+    {
+        "id": 195,
+        "nom": "light_blue_glazed_terracotta",
+        "image": "/public/assets/blocks/light_blue_glazed_terracotta.png"
+    },
+    {
+        "id": 196,
+        "nom": "light_blue_shulker_box",
+        "image": "/public/assets/blocks/light_blue_shulker_box.png"
+    },
+    {
+        "id": 197,
+        "nom": "light_blue_stained_glass",
+        "image": "/public/assets/blocks/light_blue_stained_glass.png"
+    },
+    {
+        "id": 198,
+        "nom": "light_blue_terracotta",
+        "image": "/public/assets/blocks/light_blue_terracotta.png"
+    },
+    {
+        "id": 199,
+        "nom": "light_blue_wool",
+        "image": "/public/assets/blocks/light_blue_wool.png"
+    },
+    {
+        "id": 200,
+        "nom": "light_gray_concrete",
+        "image": "/public/assets/blocks/light_gray_concrete.png"
+    },
+    {
+        "id": 201,
+        "nom": "light_gray_concrete_powder",
+        "image": "/public/assets/blocks/light_gray_concrete_powder.png"
+    },
+    {
+        "id": 202,
+        "nom": "light_gray_glazed_terracotta",
+        "image": "/public/assets/blocks/light_gray_glazed_terracotta.png"
+    },
+    {
+        "id": 203,
+        "nom": "light_gray_shulker_box",
+        "image": "/public/assets/blocks/light_gray_shulker_box.png"
+    },
+    {
+        "id": 204,
+        "nom": "light_gray_stained_glass",
+        "image": "/public/assets/blocks/light_gray_stained_glass.png"
+    },
+    {
+        "id": 205,
+        "nom": "light_gray_terracotta",
+        "image": "/public/assets/blocks/light_gray_terracotta.png"
+    },
+    {
+        "id": 206,
+        "nom": "light_gray_wool",
+        "image": "/public/assets/blocks/light_gray_wool.png"
+    },
+    {
+        "id": 207,
+        "nom": "lime_concrete",
+        "image": "/public/assets/blocks/lime_concrete.png"
+    },
+    {
+        "id": 208,
+        "nom": "lime_concrete_powder",
+        "image": "/public/assets/blocks/lime_concrete_powder.png"
+    },
+    {
+        "id": 209,
+        "nom": "lime_glazed_terracotta",
+        "image": "/public/assets/blocks/lime_glazed_terracotta.png"
+    },
+    {
+        "id": 210,
+        "nom": "lime_shulker_box",
+        "image": "/public/assets/blocks/lime_shulker_box.png"
+    },
+    {
+        "id": 211,
+        "nom": "lime_stained_glass",
+        "image": "/public/assets/blocks/lime_stained_glass.png"
+    },
+    {
+        "id": 212,
+        "nom": "lime_terracotta",
+        "image": "/public/assets/blocks/lime_terracotta.png"
+    },
+    {
+        "id": 213,
+        "nom": "lime_wool",
+        "image": "/public/assets/blocks/lime_wool.png"
+    },
+    {
+        "id": 214,
+        "nom": "lodestone_side",
+        "image": "/public/assets/blocks/lodestone_side.png"
+    },
+    {
+        "id": 215,
+        "nom": "magenta_concrete",
+        "image": "/public/assets/blocks/magenta_concrete.png"
+    },
+    {
+        "id": 216,
+        "nom": "magenta_concrete_powder",
+        "image": "/public/assets/blocks/magenta_concrete_powder.png"
+    },
+    {
+        "id": 217,
+        "nom": "magenta_glazed_terracotta",
+        "image": "/public/assets/blocks/magenta_glazed_terracotta.png"
+    },
+    {
+        "id": 218,
+        "nom": "magenta_shulker_box",
+        "image": "/public/assets/blocks/magenta_shulker_box.png"
+    },
+    {
+        "id": 219,
+        "nom": "magenta_stained_glass",
+        "image": "/public/assets/blocks/magenta_stained_glass.png"
+    },
+    {
+        "id": 220,
+        "nom": "magenta_terracotta",
+        "image": "/public/assets/blocks/magenta_terracotta.png"
+    },
+    {
+        "id": 221,
+        "nom": "magenta_wool",
+        "image": "/public/assets/blocks/magenta_wool.png"
+    },
+    {
+        "id": 222,
+        "nom": "mangrove_leaves",
+        "image": "/public/assets/blocks/mangrove_leaves.png"
+    },
+    {
+        "id": 223,
+        "nom": "mangrove_log",
+        "image": "/public/assets/blocks/mangrove_log.png"
+    },
+    {
+        "id": 224,
+        "nom": "mangrove_planks",
+        "image": "/public/assets/blocks/mangrove_planks.png"
+    },
+    {
+        "id": 225,
+        "nom": "melon_side",
+        "image": "/public/assets/blocks/melon_side.png"
+    },
+    {
+        "id": 226,
+        "nom": "mossy_cobblestone",
+        "image": "/public/assets/blocks/mossy_cobblestone.png"
+    },
+    {
+        "id": 227,
+        "nom": "mossy_stone_bricks",
+        "image": "/public/assets/blocks/mossy_stone_bricks.png"
+    },
+    {
+        "id": 228,
+        "nom": "moss_block",
+        "image": "/public/assets/blocks/moss_block.png"
+    },
+    {
+        "id": 229,
+        "nom": "mud",
+        "image": "/public/assets/blocks/mud.png"
+    },
+    {
+        "id": 230,
+        "nom": "mud_bricks",
+        "image": "/public/assets/blocks/mud_bricks.png"
+    },
+    {
+        "id": 231,
+        "nom": "mushroom_block_inside",
+        "image": "/public/assets/blocks/mushroom_block_inside.png"
+    },
+    {
+        "id": 232,
+        "nom": "mushroom_stem",
+        "image": "/public/assets/blocks/mushroom_stem.png"
+    },
+    {
+        "id": 233,
+        "nom": "mycelium_side",
+        "image": "/public/assets/blocks/mycelium_side.png"
+    },
+    {
+        "id": 234,
+        "nom": "netherite_block",
+        "image": "/public/assets/blocks/netherite_block.png"
+    },
+    {
+        "id": 235,
+        "nom": "netherrack",
+        "image": "/public/assets/blocks/netherrack.png"
+    },
+    {
+        "id": 236,
+        "nom": "nether_bricks",
+        "image": "/public/assets/blocks/nether_bricks.png"
+    },
+    {
+        "id": 237,
+        "nom": "nether_gold_ore",
+        "image": "/public/assets/blocks/nether_gold_ore.png"
+    },
+    {
+        "id": 238,
+        "nom": "nether_quartz_ore",
+        "image": "/public/assets/blocks/nether_quartz_ore.png"
+    },
+    {
+        "id": 239,
+        "nom": "nether_wart_block",
+        "image": "/public/assets/blocks/nether_wart_block.png"
+    },
+    {
+        "id": 240,
+        "nom": "note_block",
+        "image": "/public/assets/blocks/note_block.png"
+    },
+    {
+        "id": 241,
+        "nom": "oak_leaves",
+        "image": "/public/assets/blocks/oak_leaves.png"
+    },
+    {
+        "id": 242,
+        "nom": "oak_log",
+        "image": "/public/assets/blocks/oak_log.png"
+    },
+    {
+        "id": 243,
+        "nom": "oak_planks",
+        "image": "/public/assets/blocks/oak_planks.png"
+    },
+    {
+        "id": 244,
+        "nom": "obsidian",
+        "image": "/public/assets/blocks/obsidian.png"
+    },
+    {
+        "id": 245,
+        "nom": "ochre_froglight_side",
+        "image": "/public/assets/blocks/ochre_froglight_side.png"
+    },
+    {
+        "id": 246,
+        "nom": "orange_concrete",
+        "image": "/public/assets/blocks/orange_concrete.png"
+    },
+    {
+        "id": 247,
+        "nom": "orange_concrete_powder",
+        "image": "/public/assets/blocks/orange_concrete_powder.png"
+    },
+    {
+        "id": 248,
+        "nom": "orange_glazed_terracotta",
+        "image": "/public/assets/blocks/orange_glazed_terracotta.png"
+    },
+    {
+        "id": 249,
+        "nom": "orange_shulker_box",
+        "image": "/public/assets/blocks/orange_shulker_box.png"
+    },
+    {
+        "id": 250,
+        "nom": "orange_stained_glass",
+        "image": "/public/assets/blocks/orange_stained_glass.png"
+    },
+    {
+        "id": 251,
+        "nom": "orange_terracotta",
+        "image": "/public/assets/blocks/orange_terracotta.png"
+    },
+    {
+        "id": 252,
+        "nom": "orange_wool",
+        "image": "/public/assets/blocks/orange_wool.png"
+    },
+    {
+        "id": 253,
+        "nom": "oxidized_chiseled_copper",
+        "image": "/public/assets/blocks/oxidized_chiseled_copper.png"
+    },
+    {
+        "id": 254,
+        "nom": "oxidized_copper",
+        "image": "/public/assets/blocks/oxidized_copper.png"
+    },
+    {
+        "id": 255,
+        "nom": "oxidized_copper_bulb",
+        "image": "/public/assets/blocks/oxidized_copper_bulb.png"
+    },
+    {
+        "id": 256,
+        "nom": "oxidized_copper_bulb_lit",
+        "image": "/public/assets/blocks/oxidized_copper_bulb_lit.png"
+    },
+    {
+        "id": 257,
+        "nom": "oxidized_copper_bulb_lit_powered",
+        "image": "/public/assets/blocks/oxidized_copper_bulb_lit_powered.png"
+    },
+    {
+        "id": 258,
+        "nom": "oxidized_copper_bulb_powered",
+        "image": "/public/assets/blocks/oxidized_copper_bulb_powered.png"
+    },
+    {
+        "id": 259,
+        "nom": "oxidized_cut_copper",
+        "image": "/public/assets/blocks/oxidized_cut_copper.png"
+    },
+    {
+        "id": 260,
+        "nom": "packed_ice",
+        "image": "/public/assets/blocks/packed_ice.png"
+    },
+    {
+        "id": 261,
+        "nom": "packed_mud",
+        "image": "/public/assets/blocks/packed_mud.png"
+    },
+    {
+        "id": 262,
+        "nom": "pearlescent_froglight_side",
+        "image": "/public/assets/blocks/pearlescent_froglight_side.png"
+    },
+    {
+        "id": 263,
+        "nom": "pink_concrete",
+        "image": "/public/assets/blocks/pink_concrete.png"
+    },
+    {
+        "id": 264,
+        "nom": "pink_concrete_powder",
+        "image": "/public/assets/blocks/pink_concrete_powder.png"
+    },
+    {
+        "id": 265,
+        "nom": "pink_glazed_terracotta",
+        "image": "/public/assets/blocks/pink_glazed_terracotta.png"
+    },
+    {
+        "id": 266,
+        "nom": "pink_shulker_box",
+        "image": "/public/assets/blocks/pink_shulker_box.png"
+    },
+    {
+        "id": 267,
+        "nom": "pink_stained_glass",
+        "image": "/public/assets/blocks/pink_stained_glass.png"
+    },
+    {
+        "id": 268,
+        "nom": "pink_terracotta",
+        "image": "/public/assets/blocks/pink_terracotta.png"
+    },
+    {
+        "id": 269,
+        "nom": "pink_wool",
+        "image": "/public/assets/blocks/pink_wool.png"
+    },
+    {
+        "id": 270,
+        "nom": "piston_side",
+        "image": "/public/assets/blocks/piston_side.png"
+    },
+    {
+        "id": 271,
+        "nom": "piston_top",
+        "image": "/public/assets/blocks/piston_top.png"
+    },
+    {
+        "id": 272,
+        "nom": "piston_top_sticky",
+        "image": "/public/assets/blocks/piston_top_sticky.png"
+    },
+    {
+        "id": 273,
+        "nom": "podzol_side",
+        "image": "/public/assets/blocks/podzol_side.png"
+    },
+    {
+        "id": 274,
+        "nom": "polished_andesite",
+        "image": "/public/assets/blocks/polished_andesite.png"
+    },
+    {
+        "id": 275,
+        "nom": "polished_basalt_side",
+        "image": "/public/assets/blocks/polished_basalt_side.png"
+    },
+    {
+        "id": 276,
+        "nom": "polished_basalt_top",
+        "image": "/public/assets/blocks/polished_basalt_top.png"
+    },
+    {
+        "id": 277,
+        "nom": "polished_blackstone",
+        "image": "/public/assets/blocks/polished_blackstone.png"
+    },
+    {
+        "id": 278,
+        "nom": "polished_blackstone_bricks",
+        "image": "/public/assets/blocks/polished_blackstone_bricks.png"
+    },
+    {
+        "id": 279,
+        "nom": "polished_deepslate",
+        "image": "/public/assets/blocks/polished_deepslate.png"
+    },
+    {
+        "id": 280,
+        "nom": "polished_diorite",
+        "image": "/public/assets/blocks/polished_diorite.png"
+    },
+    {
+        "id": 281,
+        "nom": "polished_granite",
+        "image": "/public/assets/blocks/polished_granite.png"
+    },
+    {
+        "id": 282,
+        "nom": "polished_tuff",
+        "image": "/public/assets/blocks/polished_tuff.png"
+    },
+    {
+        "id": 283,
+        "nom": "powder_snow",
+        "image": "/public/assets/blocks/powder_snow.png"
+    },
+    {
+        "id": 284,
+        "nom": "prismarine_bricks",
+        "image": "/public/assets/blocks/prismarine_bricks.png"
+    },
+    {
+        "id": 285,
+        "nom": "pumpkin_side",
+        "image": "/public/assets/blocks/pumpkin_side.png"
+    },
+    {
+        "id": 286,
+        "nom": "purple_concrete",
+        "image": "/public/assets/blocks/purple_concrete.png"
+    },
+    {
+        "id": 287,
+        "nom": "purple_concrete_powder",
+        "image": "/public/assets/blocks/purple_concrete_powder.png"
+    },
+    {
+        "id": 288,
+        "nom": "purple_glazed_terracotta",
+        "image": "/public/assets/blocks/purple_glazed_terracotta.png"
+    },
+    {
+        "id": 289,
+        "nom": "purple_shulker_box",
+        "image": "/public/assets/blocks/purple_shulker_box.png"
+    },
+    {
+        "id": 290,
+        "nom": "purple_stained_glass",
+        "image": "/public/assets/blocks/purple_stained_glass.png"
+    },
+    {
+        "id": 291,
+        "nom": "purple_terracotta",
+        "image": "/public/assets/blocks/purple_terracotta.png"
+    },
+    {
+        "id": 292,
+        "nom": "purple_wool",
+        "image": "/public/assets/blocks/purple_wool.png"
+    },
+    {
+        "id": 293,
+        "nom": "purpur_block",
+        "image": "/public/assets/blocks/purpur_block.png"
+    },
+    {
+        "id": 294,
+        "nom": "purpur_pillar",
+        "image": "/public/assets/blocks/purpur_pillar.png"
+    },
+    {
+        "id": 295,
+        "nom": "purpur_pillar_top",
+        "image": "/public/assets/blocks/purpur_pillar_top.png"
+    },
+    {
+        "id": 296,
+        "nom": "quartz_block_side",
+        "image": "/public/assets/blocks/quartz_block_side.png"
+    },
+    {
+        "id": 297,
+        "nom": "quartz_bricks",
+        "image": "/public/assets/blocks/quartz_bricks.png"
+    },
+    {
+        "id": 298,
+        "nom": "quartz_pillar",
+        "image": "/public/assets/blocks/quartz_pillar.png"
+    },
+    {
+        "id": 299,
+        "nom": "raw_copper_block",
+        "image": "/public/assets/blocks/raw_copper_block.png"
+    },
+    {
+        "id": 300,
+        "nom": "raw_gold_block",
+        "image": "/public/assets/blocks/raw_gold_block.png"
+    },
+    {
+        "id": 301,
+        "nom": "raw_iron_block",
+        "image": "/public/assets/blocks/raw_iron_block.png"
+    },
+    {
+        "id": 302,
+        "nom": "redstone_block",
+        "image": "/public/assets/blocks/redstone_block.png"
+    },
+    {
+        "id": 303,
+        "nom": "redstone_lamp",
+        "image": "/public/assets/blocks/redstone_lamp.png"
+    },
+    {
+        "id": 304,
+        "nom": "redstone_lamp_on",
+        "image": "/public/assets/blocks/redstone_lamp_on.png"
+    },
+    {
+        "id": 305,
+        "nom": "redstone_ore",
+        "image": "/public/assets/blocks/redstone_ore.png"
+    },
+    {
+        "id": 306,
+        "nom": "red_concrete",
+        "image": "/public/assets/blocks/red_concrete.png"
+    },
+    {
+        "id": 307,
+        "nom": "red_concrete_powder",
+        "image": "/public/assets/blocks/red_concrete_powder.png"
+    },
+    {
+        "id": 308,
+        "nom": "red_glazed_terracotta",
+        "image": "/public/assets/blocks/red_glazed_terracotta.png"
+    },
+    {
+        "id": 309,
+        "nom": "red_mushroom_block",
+        "image": "/public/assets/blocks/red_mushroom_block.png"
+    },
+    {
+        "id": 310,
+        "nom": "red_nether_bricks",
+        "image": "/public/assets/blocks/red_nether_bricks.png"
+    },
+    {
+        "id": 311,
+        "nom": "red_sand",
+        "image": "/public/assets/blocks/red_sand.png"
+    },
+    {
+        "id": 312,
+        "nom": "red_sandstone",
+        "image": "/public/assets/blocks/red_sandstone.png"
+    },
+    {
+        "id": 313,
+        "nom": "red_shulker_box",
+        "image": "/public/assets/blocks/red_shulker_box.png"
+    },
+    {
+        "id": 314,
+        "nom": "red_stained_glass",
+        "image": "/public/assets/blocks/red_stained_glass.png"
+    },
+    {
+        "id": 315,
+        "nom": "red_terracotta",
+        "image": "/public/assets/blocks/red_terracotta.png"
+    },
+    {
+        "id": 316,
+        "nom": "red_wool",
+        "image": "/public/assets/blocks/red_wool.png"
+    },
+    {
+        "id": 317,
+        "nom": "reinforced_deepslate_side",
+        "image": "/public/assets/blocks/reinforced_deepslate_side.png"
+    },
+    {
+        "id": 318,
+        "nom": "respawn_anchor_side0",
+        "image": "/public/assets/blocks/respawn_anchor_side0.png"
+    },
+    {
+        "id": 319,
+        "nom": "respawn_anchor_side1",
+        "image": "/public/assets/blocks/respawn_anchor_side1.png"
+    },
+    {
+        "id": 320,
+        "nom": "respawn_anchor_side2",
+        "image": "/public/assets/blocks/respawn_anchor_side2.png"
+    },
+    {
+        "id": 321,
+        "nom": "respawn_anchor_side3",
+        "image": "/public/assets/blocks/respawn_anchor_side3.png"
+    },
+    {
+        "id": 322,
+        "nom": "respawn_anchor_side4",
+        "image": "/public/assets/blocks/respawn_anchor_side4.png"
+    },
+    {
+        "id": 323,
+        "nom": "rooted_dirt",
+        "image": "/public/assets/blocks/rooted_dirt.png"
+    },
+    {
+        "id": 324,
+        "nom": "sand",
+        "image": "/public/assets/blocks/sand.png"
+    },
+    {
+        "id": 325,
+        "nom": "sandstone",
+        "image": "/public/assets/blocks/sandstone.png"
+    },
+    {
+        "id": 326,
+        "nom": "sandstone_bottom",
+        "image": "/public/assets/blocks/sandstone_bottom.png"
+    },
+    {
+        "id": 327,
+        "nom": "sandstone_top",
+        "image": "/public/assets/blocks/sandstone_top.png"
+    },
+    {
+        "id": 328,
+        "nom": "sculk_catalyst_side",
+        "image": "/public/assets/blocks/sculk_catalyst_side.png"
+    },
+    {
+        "id": 329,
+        "nom": "sculk_shrieker_side",
+        "image": "/public/assets/blocks/sculk_shrieker_side.png"
+    },
+    {
+        "id": 330,
+        "nom": "sea_lantern",
+        "image": "/public/assets/blocks/sea_lantern.png"
+    },
+    {
+        "id": 331,
+        "nom": "shroomlight",
+        "image": "/public/assets/blocks/shroomlight.png"
+    },
+    {
+        "id": 332,
+        "nom": "shulker_box",
+        "image": "/public/assets/blocks/shulker_box.png"
+    },
+    {
+        "id": 333,
+        "nom": "slime_block",
+        "image": "/public/assets/blocks/slime_block.png"
+    },
+    {
+        "id": 334,
+        "nom": "smithing_table_front",
+        "image": "/public/assets/blocks/smithing_table_front.png"
+    },
+    {
+        "id": 335,
+        "nom": "smoker_front",
+        "image": "/public/assets/blocks/smoker_front.png"
+    },
+    {
+        "id": 336,
+        "nom": "smooth_basalt",
+        "image": "/public/assets/blocks/smooth_basalt.png"
+    },
+    {
+        "id": 337,
+        "nom": "smooth_stone",
+        "image": "/public/assets/blocks/smooth_stone.png"
+    },
+    {
+        "id": 338,
+        "nom": "smooth_stone_slab_side",
+        "image": "/public/assets/blocks/smooth_stone_slab_side.png"
+    },
+    {
+        "id": 339,
+        "nom": "snow",
+        "image": "/public/assets/blocks/snow.png"
+    },
+    {
+        "id": 340,
+        "nom": "soul_sand",
+        "image": "/public/assets/blocks/soul_sand.png"
+    },
+    {
+        "id": 341,
+        "nom": "soul_soil",
+        "image": "/public/assets/blocks/soul_soil.png"
+    },
+    {
+        "id": 342,
+        "nom": "spawner",
+        "image": "/public/assets/blocks/spawner.png"
+    },
+    {
+        "id": 343,
+        "nom": "sponge",
+        "image": "/public/assets/blocks/sponge.png"
+    },
+    {
+        "id": 344,
+        "nom": "spruce_leaves",
+        "image": "/public/assets/blocks/spruce_leaves.png"
+    },
+    {
+        "id": 345,
+        "nom": "spruce_log",
+        "image": "/public/assets/blocks/spruce_log.png"
+    },
+    {
+        "id": 346,
+        "nom": "spruce_planks",
+        "image": "/public/assets/blocks/spruce_planks.png"
+    },
+    {
+        "id": 347,
+        "nom": "spruce_trapdoor",
+        "image": "/public/assets/blocks/spruce_trapdoor.png"
+    },
+    {
+        "id": 348,
+        "nom": "stone",
+        "image": "/public/assets/blocks/stone.png"
+    },
+    {
+        "id": 349,
+        "nom": "stone_bricks",
+        "image": "/public/assets/blocks/stone_bricks.png"
+    },
+    {
+        "id": 350,
+        "nom": "stripped_acacia_log",
+        "image": "/public/assets/blocks/stripped_acacia_log.png"
+    },
+    {
+        "id": 351,
+        "nom": "stripped_bamboo_block",
+        "image": "/public/assets/blocks/stripped_bamboo_block.png"
+    },
+    {
+        "id": 352,
+        "nom": "stripped_birch_log",
+        "image": "/public/assets/blocks/stripped_birch_log.png"
+    },
+    {
+        "id": 353,
+        "nom": "stripped_cherry_log",
+        "image": "/public/assets/blocks/stripped_cherry_log.png"
+    },
+    {
+        "id": 354,
+        "nom": "stripped_crimson_stem",
+        "image": "/public/assets/blocks/stripped_crimson_stem.png"
+    },
+    {
+        "id": 355,
+        "nom": "stripped_dark_oak_log",
+        "image": "/public/assets/blocks/stripped_dark_oak_log.png"
+    },
+    {
+        "id": 356,
+        "nom": "stripped_jungle_log",
+        "image": "/public/assets/blocks/stripped_jungle_log.png"
+    },
+    {
+        "id": 357,
+        "nom": "stripped_mangrove_log",
+        "image": "/public/assets/blocks/stripped_mangrove_log.png"
+    },
+    {
+        "id": 358,
+        "nom": "stripped_oak_log",
+        "image": "/public/assets/blocks/stripped_oak_log.png"
+    },
+    {
+        "id": 359,
+        "nom": "stripped_spruce_log",
+        "image": "/public/assets/blocks/stripped_spruce_log.png"
+    },
+    {
+        "id": 360,
+        "nom": "stripped_warped_stem",
+        "image": "/public/assets/blocks/stripped_warped_stem.png"
+    },
+    {
+        "id": 361,
+        "nom": "structure_block",
+        "image": "/public/assets/blocks/structure_block.png"
+    },
+    {
+        "id": 362,
+        "nom": "structure_block_corner",
+        "image": "/public/assets/blocks/structure_block_corner.png"
+    },
+    {
+        "id": 363,
+        "nom": "structure_block_data",
+        "image": "/public/assets/blocks/structure_block_data.png"
+    },
+    {
+        "id": 364,
+        "nom": "structure_block_load",
+        "image": "/public/assets/blocks/structure_block_load.png"
+    },
+    {
+        "id": 365,
+        "nom": "structure_block_save",
+        "image": "/public/assets/blocks/structure_block_save.png"
+    },
+    {
+        "id": 366,
+        "nom": "target_side",
+        "image": "/public/assets/blocks/target_side.png"
+    },
+    {
+        "id": 367,
+        "nom": "terracotta",
+        "image": "/public/assets/blocks/terracotta.png"
+    },
+    {
+        "id": 368,
+        "nom": "tinted_glass",
+        "image": "/public/assets/blocks/tinted_glass.png"
+    },
+    {
+        "id": 369,
+        "nom": "tnt_side",
+        "image": "/public/assets/blocks/tnt_side.png"
+    },
+    {
+        "id": 370,
+        "nom": "tube_coral_block",
+        "image": "/public/assets/blocks/tube_coral_block.png"
+    },
+    {
+        "id": 371,
+        "nom": "tuff",
+        "image": "/public/assets/blocks/tuff.png"
+    },
+    {
+        "id": 372,
+        "nom": "tuff_bricks",
+        "image": "/public/assets/blocks/tuff_bricks.png"
+    },
+    {
+        "id": 373,
+        "nom": "warped_nylium",
+        "image": "/public/assets/blocks/warped_nylium.png"
+    },
+    {
+        "id": 374,
+        "nom": "warped_nylium_side",
+        "image": "/public/assets/blocks/warped_nylium_side.png"
+    },
+    {
+        "id": 375,
+        "nom": "warped_planks",
+        "image": "/public/assets/blocks/warped_planks.png"
+    },
+    {
+        "id": 376,
+        "nom": "warped_wart_block",
+        "image": "/public/assets/blocks/warped_wart_block.png"
+    },
+    {
+        "id": 377,
+        "nom": "weathered_chiseled_copper",
+        "image": "/public/assets/blocks/weathered_chiseled_copper.png"
+    },
+    {
+        "id": 378,
+        "nom": "weathered_copper",
+        "image": "/public/assets/blocks/weathered_copper.png"
+    },
+    {
+        "id": 379,
+        "nom": "weathered_copper_bulb",
+        "image": "/public/assets/blocks/weathered_copper_bulb.png"
+    },
+    {
+        "id": 380,
+        "nom": "weathered_copper_bulb_lit",
+        "image": "/public/assets/blocks/weathered_copper_bulb_lit.png"
+    },
+    {
+        "id": 381,
+        "nom": "weathered_copper_bulb_lit_powered",
+        "image": "/public/assets/blocks/weathered_copper_bulb_lit_powered.png"
+    },
+    {
+        "id": 382,
+        "nom": "weathered_copper_bulb_powered",
+        "image": "/public/assets/blocks/weathered_copper_bulb_powered.png"
+    },
+    {
+        "id": 383,
+        "nom": "weathered_cut_copper",
+        "image": "/public/assets/blocks/weathered_cut_copper.png"
+    },
+    {
+        "id": 384,
+        "nom": "wet_sponge",
+        "image": "/public/assets/blocks/wet_sponge.png"
+    },
+    {
+        "id": 385,
+        "nom": "white_concrete",
+        "image": "/public/assets/blocks/white_concrete.png"
+    },
+    {
+        "id": 386,
+        "nom": "white_concrete_powder",
+        "image": "/public/assets/blocks/white_concrete_powder.png"
+    },
+    {
+        "id": 387,
+        "nom": "white_glazed_terracotta",
+        "image": "/public/assets/blocks/white_glazed_terracotta.png"
+    },
+    {
+        "id": 388,
+        "nom": "white_shulker_box",
+        "image": "/public/assets/blocks/white_shulker_box.png"
+    },
+    {
+        "id": 389,
+        "nom": "white_stained_glass",
+        "image": "/public/assets/blocks/white_stained_glass.png"
+    },
+    {
+        "id": 390,
+        "nom": "white_terracotta",
+        "image": "/public/assets/blocks/white_terracotta.png"
+    },
+    {
+        "id": 391,
+        "nom": "white_wool",
+        "image": "/public/assets/blocks/white_wool.png"
+    },
+    {
+        "id": 392,
+        "nom": "yellow_concrete",
+        "image": "/public/assets/blocks/yellow_concrete.png"
+    },
+    {
+        "id": 393,
+        "nom": "yellow_concrete_powder",
+        "image": "/public/assets/blocks/yellow_concrete_powder.png"
+    },
+    {
+        "id": 394,
+        "nom": "yellow_glazed_terracotta",
+        "image": "/public/assets/blocks/yellow_glazed_terracotta.png"
+    },
+    {
+        "id": 395,
+        "nom": "yellow_shulker_box",
+        "image": "/public/assets/blocks/yellow_shulker_box.png"
+    },
+    {
+        "id": 396,
+        "nom": "yellow_stained_glass",
+        "image": "/public/assets/blocks/yellow_stained_glass.png"
+    },
+    {
+        "id": 397,
+        "nom": "yellow_terracotta",
+        "image": "/public/assets/blocks/yellow_terracotta.png"
+    },
+    {
+        "id": 398,
+        "nom": "yellow_wool",
+        "image": "/public/assets/blocks/yellow_wool.png"
+    }
+]
