@@ -5,7 +5,7 @@ const router = express.Router();
 
 // Route pour servir le fichier JSON
 router.get("/api/data", (req, res) => {
-    const jsonFilePath = path.join(__dirname, "../images.json"); // Chemin relatif vers le fichier JSON
+    const jsonFilePath = path.join(__dirname, "../api/data/images.json"); // Chemin relatif vers le fichier JSON
   
     // Lire et renvoyer le contenu du fichier JSON
     fs.readFile(jsonFilePath, "utf8", (err, data) => {
