@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const caseBlock = document.querySelectorAll('.block')
     const lockButton = document.querySelectorAll('.lock')
     const buttonRandom = document.getElementById('generate')
+    const menuBlockButton = document.querySelectorAll('#pBlock')
 
     function randomInt(min, max) {
         return min + Math.floor((max - min) * Math.random());
@@ -45,9 +46,29 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
+    function toggleMenuBlockDisplay() {
+        const menuBlock = document.querySelector('.menu_block');
+        menuBlock.classList.toggle('show');
+        const displayBlockMenu = document.querySelector('.displayAllBlockForMenu')
+        displayBlockMenu.innerHTML = ''
+        allBlock.forEach(block => 
+            displayBlockMenu.innerHTML += `
+                <img src = "${block.image}" alt="${block.nom}>
+            `
+        );
+    }
+
+
+
     buttonRandom.addEventListener('click', displayBlockRandom)
 
     lockButton.forEach(button => {
         button.addEventListener('click', toggleLock);
     });
+
+
+    menuBlockButton.forEach(button => {
+        button.addEventListener('click', toggleMenuBlockDisplay);
+    });
+
 })

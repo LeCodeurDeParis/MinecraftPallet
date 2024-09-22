@@ -1,6 +1,7 @@
 :root {
     --main-color: rgb(0, 45, 45);
-    --secondary-color: grey;
+    --secondary-color: rgb(0, 70, 70);
+    --tertiary-color: darkcyan;
 }
 
 body {
@@ -17,6 +18,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 10rem;
+    position: relative;
 }
 
 header h1 {
@@ -24,16 +26,34 @@ header h1 {
     color: white;
 }
 
+header a {
+    color: white;
+    text-decoration: none;
+}
+
 header span {
     margin-bottom: 0.875rem;
     color: white;
 }
 
+header .sign {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 25rem;
+    height: 3.75rem;
+    background-color: var(--secondary-color);
+    border-radius: 0 0 0 1rem;
+}
+
 button {
     padding: 0.625rem 1.25rem;
-    background-color: darkcyan;
+    background-color: var(--tertiary-color);
     color: white;
-    border: solid darkcyan 0.1rem;
+    border: solid var(--tertiary-color) 0.1rem;
     border-radius: 0.25rem;
     transition: 375ms background-color, 375ms box-shadow;
     cursor: pointer;
@@ -60,7 +80,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(0, 70, 70);
+    background-color: var(--secondary-color);
     border-radius: 0.25rem;
     padding: 1rem;
     margin-bottom: 2.25rem;
@@ -73,4 +93,37 @@ main {
 
 .action{
     margin-top: 1.25rem;
+}
+
+.menu_block{
+    display: none;
+}
+
+.menu_block.show{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--tertiary-color);
+    border-radius: 0.25rem;
+    padding: 1rem;
+    margin-bottom: 2.25rem;
+    position: fixed;
+    width: 20rem;
+}
+
+.menu_block.show span{
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.displayAllBlockForMenu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.menu_block.show img{
+    width: 3rem;
+    height: 3rem;
 }
