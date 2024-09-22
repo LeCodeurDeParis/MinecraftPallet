@@ -1,7 +1,7 @@
 :root {
     --main-color: rgb(0, 45, 45);
     --secondary-color: rgb(0, 70, 70);
-    --tertiary-color: darkcyan;
+    --tertiary-color: rgb(0, 139, 139);
 }
 
 body {
@@ -89,17 +89,34 @@ main {
 .block img {
     width: 10rem;
     height: 10rem;
+    image-rendering: pixelated;
 }
 
 .action{
     margin-top: 1.25rem;
 }
 
-.menu_block{
-    display: none;
+.popup{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: 375ms opacity;
+    background-color: rgba(0, 0, 0, 0.15);
 }
 
-.menu_block.show{
+.popup.show{
+    pointer-events: auto;
+    opacity: 1;
+}
+
+.menu_block{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -109,21 +126,25 @@ main {
     margin-bottom: 2.25rem;
     position: fixed;
     width: 20rem;
+    height: 25rem;
 }
 
-.menu_block.show span{
+.menu_block span{
     color: white;
     margin-bottom: 1rem;
 }
 
 .displayAllBlockForMenu{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     margin-top: 1rem;
+    overflow-y: auto;
+    height: auto;
 }
 
-.menu_block.show img{
+.menu_block img{
     width: 3rem;
     height: 3rem;
 }

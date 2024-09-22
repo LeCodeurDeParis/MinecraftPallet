@@ -3,6 +3,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     const lockButton = document.querySelectorAll('.lock')
     const buttonRandom = document.getElementById('generate')
     const menuBlockButton = document.querySelectorAll('#pBlock')
+    const menuBlock = document.querySelector('.popup');
+    const displayBlockMenu = document.querySelector('.displayAllBlockForMenu')
+    const closeMenu = document.getElementById('close-popup')
+
 
     function randomInt(min, max) {
         return min + Math.floor((max - min) * Math.random());
@@ -15,7 +19,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     let allBlock = await getBlock()
-
+    displayBlockMenu.innerHTML = ''
+    allBlock.forEach(block => {
+        displayBlockMenu.innerHTML += `
+            <img src = "${block.image}" alt="${block.nom}" loading="lazy">
+        `
+    });
+        
     async function displayBlockRandom() {
         caseBlock.forEach(element => {
             if (!element.classList.contains('locked')) {
@@ -47,17 +57,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function toggleMenuBlockDisplay() {
-        const menuBlock = document.querySelector('.menu_block');
         menuBlock.classList.toggle('show');
-        const displayBlockMenu = document.querySelector('.displayAllBlockForMenu')
-        displayBlockMenu.innerHTML = ''
-        allBlock.forEach(block => 
-            displayBlockMenu.innerHTML += `
-                <img src = "${block.image}" alt="${block.nom}>
-            `
-        );
     }
 
+    function closePopup() {
+        menuBlock.classList.remove('show');
+    }
 
 
     buttonRandom.addEventListener('click', displayBlockRandom)
@@ -70,5 +75,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     menuBlockButton.forEach(button => {
         button.addEventListener('click', toggleMenuBlockDisplay);
     });
+
+    closeMenu.addEventListener('click', closePopup)
 
 })
