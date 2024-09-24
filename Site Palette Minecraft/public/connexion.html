@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/connexion.css">
+    <link rel="stylesheet" href="/CSS/Reset_CSS.css">
+    <title>Minecraft Pallet</title>
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Minecraft Pallet</a></h1>
+        <div class="sign">
+            <a href="connexion.html" id="connexion">Connexion</a>
+            <a href="inscription.html" id="inscription">Inscription</a>
+        </div>
+    </header>
+    <main>
+        <form method="POST" class="Connexion">
+            <h2>Connexion :</h2>
+            <div class = "champs">
+                <input type = "hidden" name ="form" value="ConnexionUser">
+
+                <label for="email">Email</label>
+                <input type="text" name="email" id="email" required>
+
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" required>
+
+                <button type="submit">Connexion</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
