@@ -22,10 +22,8 @@ header {
 }
 
 header h1 {
-    margin-top: 1rem;
     margin-bottom: 1.875rem;
     color: white;
-    text-align: center;
 }
 
 header a {
@@ -78,10 +76,11 @@ main {
     padding: 2.25rem;
 }
 
+
 .Connexion {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     align-items: center;
     width: 25rem;
     height: 20rem;

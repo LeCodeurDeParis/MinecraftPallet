@@ -3,7 +3,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "mysql"
   url      = env("DATABASE_URL")
 }
 
@@ -14,8 +14,7 @@ model User {
   password  String
   createdAt DateTime   @default(now())
   updatedAt DateTime   @updatedAt
-  LastBooster String @default("0")
-  cards Pallet[]
+  pallets Pallet[]
 }
 
 model Pallet {
@@ -23,6 +22,7 @@ model Pallet {
   owner User @relation(fields: [userId], references: [id])
   userId Int
   palletId Int
+  idBlock Int
   like Boolean @default(false)
   imageUrl  String  @default("NULL")
   @@id([userId, palletId])

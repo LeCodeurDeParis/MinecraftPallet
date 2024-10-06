@@ -49,6 +49,18 @@ header .sign {
     border-radius: 0 0 0 1rem;
 }
 
+header #generate {
+    background-color: var(--tertiary-color);
+    color: white;
+    border: solid var(--tertiary-color) 0.1rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    max-width: 7.55rem;
+    position: relative;
+    top: 6rem;
+
+}
+
 button {
     padding: 0.625rem 1.25rem;
     background-color: var(--tertiary-color);
