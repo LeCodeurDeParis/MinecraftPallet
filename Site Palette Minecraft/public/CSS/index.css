@@ -57,6 +57,7 @@ button {
     border-radius: 0.25rem;
     transition: 375ms background-color, 375ms box-shadow;
     cursor: pointer;
+    max-width: 7.55rem;
 }
 
 button:hover {
