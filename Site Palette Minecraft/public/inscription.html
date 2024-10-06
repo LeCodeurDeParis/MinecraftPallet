@@ -3,29 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/Reset_CSS.css">
+    <link rel="stylesheet" href="/CSS/inscription.css">
     <title>Minecraft Pallet</title>
 </head>
 <body>
     <header>
         <h1><a href="index.html">Minecraft Pallet</a></h1>
-        <div class="sign">
-            <a href="connexion.html" id="connexion">Connexion</a>
-            <a href="inscription.html" id="inscription">Inscription</a>
-        </div>
     </header>
     <main>
         <form method="POST" class="Inscription">
-            <h2>Connexion :</h2>
+            <h2>Inscription :</h2>
             <div class = "champs">
                 <input type = "hidden" name ="form" value="InscriptionUser">
 
                 <label for="email">Email</label>
                 <input type="text" name="email" id="email" required>
 
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" required>
+
                 <label for="password">Password</label>
                 <input type="password" name="password" id="password" required>
 
-                <button type="submit">Connexion</button>
+                <label for="password2">Confirm Password</label>
+                <input type="password" name="password2" id="password2" required>
+
+                <button type="submit">Inscription</button>
             </div>
         </form>
     </main>
