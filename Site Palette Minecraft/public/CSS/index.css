@@ -5,8 +5,6 @@
 }
 
 body {
-    display: flex;
-    flex-direction: column;
     background-color: var(--main-color);
     font-family: sans-serif;
     min-height: 100vh;
@@ -56,9 +54,7 @@ header #generate {
     border-radius: 0.25rem;
     cursor: pointer;
     max-width: 7.55rem;
-    position: relative;
-    top: 6rem;
-
+    margin-top: 2rem;
 }
 
 button {
@@ -86,7 +82,7 @@ main {
     flex-wrap: wrap;
     align-items: center;
     flex: 1 1 auto;
-    padding: 2.25rem;
+    padding: 4.25rem;
 }
 
 .block{
@@ -120,7 +116,7 @@ main {
     justify-content: center;
     align-items: center;
     opacity: 0;
-    transition: 375ms opacity;
+    transition:  500ms opacity;
     background-color: rgba(0, 0, 0, 0.15);
 }
 
@@ -155,9 +151,24 @@ main {
     margin-top: 1rem;
     overflow-y: auto;
     height: auto;
+    background-color: var(--secondary-color);
+    border: solid var(--main-color) 0.1rem;
+    border-radius: 0.25rem;
+
 }
+
 
 .menu_block img{
     width: 3rem;
     height: 3rem;
+    padding: 0.5rem;
+}
+
+.menu_block input{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: solid var(--main-color) 0.1rem;
+    background-color: var(--secondary-color);
+    color: white;
 }

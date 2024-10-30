@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const menuBlock = document.querySelector('.popup');
     const displayBlockMenu = document.querySelector('.displayAllBlockForMenu')
     const closeMenu = document.getElementById('close-popup')
+    const AllBlockPopUp = document.querySelectorAll('.block_specific')
 
 
     function randomInt(min, max) {
@@ -22,16 +23,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     displayBlockMenu.innerHTML = ''
     allBlock.forEach(block => {
         displayBlockMenu.innerHTML += `
-            <img src = "${block.image}" alt="${block.nom}" loading="lazy">
+            <img class="block_specific" id = "${block.id}" src = "${block.image}" alt="${block.nom}" loading="lazy">
         `
     });
         
     async function displayBlockRandom() {
         caseBlock.forEach(element => {
             if (!element.classList.contains('locked')) {
-                console.log(element)
                 let getRandomBlock = randomInt(0, allBlock.length)
                 let img = element.querySelector('img')
+                img.id = allBlock[getRandomBlock].id
                 img.src = allBlock[getRandomBlock].image
                 img.alt = allBlock[getRandomBlock].nom
             }
@@ -56,6 +57,29 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
+    function chooseBlock(event) {
+        console.log("clicked")
+        const searchParentBlock = event.target.id
+        switch (searchParentBlock) {
+            case 'color1':
+                console.log('color1')
+                break;
+            case 'color2':
+                console.log('color2')
+                break;  
+            case 'color3':
+                console.log('color3')
+                break;
+            case 'color4':
+                console.log('color4')
+                break;
+            case 'color5':
+                console.log('color5')
+                break;
+        }
+    }
+
+
     function toggleMenuBlockDisplay() {
         menuBlock.classList.toggle('show');
     }
@@ -77,5 +101,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
 
     closeMenu.addEventListener('click', closePopup)
+
+    displayBlockMenu.addEventListener('click', eventAllBlock)
+
+    function eventAllBlock(event){
+        console.log(event.target)
+        chooseBlock(event)
+    }
 
 })
